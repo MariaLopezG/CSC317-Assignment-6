@@ -6,7 +6,9 @@ Welcome to my text processing web page project!
 
 I will be usign DOM API methods to build a dynamic web page to connect with users! 
 
+This assignment was implemented with JavaScript and the DOM API to perform text processing tasks. It dynamically gerenates a user interface containing a textarea and a submit button. Once it is pressed there will be printed the 5 most repeated words in the group of words that were introduced in the textarea.
 
+This project helped me practice my web development skills, including JavaScript programming, DOM manipulation, and creating dynamic user interfaces. It also reinforced concepts related to text processing and data structures in JavaScript.
 
 
 
